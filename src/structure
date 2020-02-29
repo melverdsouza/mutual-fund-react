@@ -1,0 +1,15 @@
+<Home Page>
+link should end with /funds and /funds/:id
+The fund explore page must display a table with 100 entries containing following fields(name, category, type, plan, y1 return, y3 return)
+The above table must be sortable based on all the column
+provide drop-down for fund_category/fund_type/plan to filter out the result
+always display 100 top items from the list
+
+<Selected Fund Page>
+Display all the relevant information related to it
+
+
+search bar to be added 
+in case returns is not there for a particular fund then return not available
+add firebase or login
+add antdesign and more styling(DONE)
