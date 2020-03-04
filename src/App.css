@@ -5,6 +5,7 @@
 }
 .sections {
   display: flex;
+  /* overflow: scroll; */
 }
 
 h4 {
@@ -18,8 +19,9 @@ h4 {
   position: fixed;
   margin-top: 5%;
   text-align: left;
-  /* padding-left: 2%; */
   display: inline;
+  overflow: scroll;
+  word-wrap: break-word;
 }
 
 .email {

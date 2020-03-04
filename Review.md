@@ -1,0 +1,11 @@
+- Do not store derived information in state
+- Store the selected category, fund type, plan in state, then use this for filtering out mutual funds
+- Move search to a different function
+- Add scroll to the sidemenu(DONE)
+- Implement descending sort
+- Conditonal rendering
+- key(DONE)
+- At a given point in time, user can select multiple filters
+- Derive the filter values from the data
+- Home page data to be added in selectedfund page
+- Read all 12 articles in react documentation page

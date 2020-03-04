@@ -15,6 +15,7 @@ class SelectedFund extends React.Component {
     }
 
     logout() {
+        debugger;
         fire.auth().signOut()
     }
 
